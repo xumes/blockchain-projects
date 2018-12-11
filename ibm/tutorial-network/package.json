@@ -1,0 +1,23 @@
+{
+  "name": "tutorial-network",
+  "version": "0.0.1",
+  "description": "IBM Blockchain for Developers - tutorial",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "author": "Reginaldo Santos",
+  "email": "reginaldosantos.br@gmail.com",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "chai": "latest",
+    "composer-admin": "latest",
+    "composer-cli": "^0.17.2",
+    "composer-client": "^0.17.2",
+    "composer-common": "latest",
+    "composer-connector-embedded": "latest",
+    "eslint": "latest",
+    "istanbul": "latest",
+    "mkdirp": "latest",
+    "mocha": "latest"
+  }
+}
